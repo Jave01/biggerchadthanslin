@@ -1,0 +1,37 @@
+body {
+  background-color: #161819;
+  color: #d9d8db;
+}
+
+h1 {
+  font-family: "Aboreto", cursive;
+  font-size: 3rem;
+  margin-top: 5rem;
+}
+
+p {
+  margin: 3rem auto;
+  font-family: "Rubik Burned", cursive;
+  font-size: 2rem;
+}
+
+a {
+  padding: 0.5rem 1rem;
+  background-color: #00edb1;
+  color: #161819;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+.main-div {
+  max-width: 800px;
+  margin: 6rem auto;
+  padding: 3rem;
+  text-align: center;
+  background-color: #242529;
+}
